@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Game Library 1.0">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2410470818 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GLIB Game - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2410470818 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GLIB Game - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2410470818 - Field 2832340769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Release Year</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GLIB Game - Field Year - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2410470818 - Field 1772640682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Publisher</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GLIB Game - Field Publisher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2410470818 - Field 1593079109 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Genre</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table GLIB Game - Field Genre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320030656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Games</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GLIB Game List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320030656 - Control 318613646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Game Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GLIB Game List - Control Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3320030656 - Action 4282564654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fill Game Data</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GLIB Game List - Action FillDemoGameData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1981657455 - Field 628801458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Important</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension GLIB Customer Extension - Field GLIB Important - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
