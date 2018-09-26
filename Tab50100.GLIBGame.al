@@ -47,4 +47,11 @@ table 50100 "GLIB Game"
     begin
         FillDemoGameDataMeth.FillDemoGameData(Rec);
     end;
+
+    procedure ShowNotification()
+    var
+        ShowNotificationMeth: Codeunit "GLIB Show Notification Meth";
+    begin
+        ShowNotificationMeth.ShowNotification(Rec);
+    end;
 }

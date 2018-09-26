@@ -28,6 +28,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table GLIB Game - Field Genre - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2109268854 - Method 3283066691 - NamedType 320107759" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have %1 games which are released in %2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GLIB Show Notification Meth - Method SendNotification - NamedType GamesPerYearTxt</note>
+        </trans-unit>
         <trans-unit id="Page 3320030656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Games</source>
           <note from="Developer" annotates="general" priority="2"></note>
