@@ -1,4 +1,8 @@
 {
   "al.codeAnalyzers": ["${AppSourceCop}", "${CodeCop}", "${UICop}"],
-  "al.enableCodeAnalysis": true
+  "al.enableCodeAnalysis": true,
+
+  "CRS.ObjectNamePrefix": "GLIB ",
+  "CRS.FileNamePattern": "<ObjectTypeShort><ObjectId>.<ObjectNameShort>.al",
+  "CRS.OnSaveAlFileAction": "Rename"
 }
