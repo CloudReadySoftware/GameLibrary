@@ -33,6 +33,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit GLIB Show Notification Meth - Method SendNotification - NamedType GamesPerYearTxt</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2198804965 - Method 1665861916 - NamedType 694253280" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a demo message, now is %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GLIB Unformatted CU - Method OnRun - NamedType DemoCurrentTimeMessage</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2198804965 - Method 1665861916 - NamedType 603918124" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This is a demo message2, it is displayed on the %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit GLIB Unformatted CU - Method OnRun - NamedType DemoCurrentClientTypeMessage</note>
+        </trans-unit>
         <trans-unit id="Page 3320030656 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Games</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -48,7 +58,7 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page GLIB Game List - Action FillDemoGameData - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 1981657455 - Field 628801458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="TableExtension 1981657455 - Field 628801458 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
           <source>Important</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension GLIB Customer Extension - Field GLIB Important - Property Caption</note>
